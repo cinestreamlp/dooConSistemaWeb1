@@ -1,0 +1,67 @@
+<resources translatable="false">
+    <string name="app_name">Watchify</string>
+    <string name="splashimage">SplashImage</string>
+    <string name="home">Home\n</string>
+    <string name="search">Search\n</string>
+    <string name="favorites">Favorites\n</string>
+    <string name="accounts">Account\n</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subscribe_now">Subscribe Now</string>
+    <string name="login_sign_up">Login / Sign Up</string>
+    <string name="cineflix_specials">Cineflix Specials</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="filmatography">Biography:</string>
+    <string name="the_ten_commandments">The Ten Commandments</string>
+    <string name="help_center">Help Center</string>
+    <string name="contact_faithflix_support">Contact Watch Flix Support</string>
+    <string name="percent_progress" translatable="false">%1$d%%</string>
+    <string name="download_eta_sec" translatable="false">%1$ds left</string>
+    <string name="download_eta_min" translatable="false">%1$dm %2$ds left</string>
+    <string name="download_eta_hrs" translatable="false">%1$dh %2$dm %3$ds left</string>
+    <string name="download_speed_bytes" translatable="false">%1$d B/s</string>
+    <string name="download_speed_kb" translatable="false">%1$s KB/s</string>
+    <string name="download_speed_mb" translatable="false">%1$s MB/s</string>
+    <string name="download">Download</string>
+    <string name="trailer_more"><![CDATA[Trailer & More]]></string>
+    <string name="audio_subtitle"><![CDATA[Audio & Subtitle]]></string>
+    <string name="languages_subtitle"><![CDATA[languages & Subtitle]]></string>
+    <string name="track_selection_title">Quality</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="speed_1x">Speed (1x)</string>
+    <string name="lock">Lock</string>
+    <string name="episodes">Episodes</string>
+    <string name="options">Options</string>
+    <string name="next_ep">Next Ep.</string>
+    <string name="todo">TODO</string>
+    <string name="server_episode_name">Server/ Episode Name</string>
+    <string name="mainmovie_name">MainMovie Name</string>
+    <string name="watch_episodes">Watch Episodes</string>
+    <string name="splash_logo">applogo</string>
+    <string name="recently_released_movies">Recently Released Movies</string>
+    <string name="continue_watching">Continue Watching</string>
+    <string name="see_all">See All</string>
+    <string name="marvel_movies_collections">Marvel Movies Collections</string>
+    <string name="popular_series">Popular Series</string>
+    <string name="for_you">For You</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_ten_movies_in_september">Top Ten Movies In September</string>
+    <string name="dc_movies_collection">DC Movies Collection</string>
+    <string name="exo_track_selection_title_video">Audio</string>
+    <string name="exo_track_selection_title_text">Subtitle</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="time_travel_movies">Time Travel Movies</string>
+    <string name="movies">Movies</string>
+    <string name="delete_title">Delete\n</string>
+    <string name="trending_in">Trending In</string>
+    <string name="everyone_s_watching">Everyone\'s Watching</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="select_year">Select Year</string>
+    <string name="select_country">Select By Country</string>
+    <string name="select_language">Select By Language</string>
+    <string name="admob_application_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string> <!-- AdMob -->
+    <string name="startapp_app_id" translatable="false">209411604</string> <!-- StartApp -->
+    <string name="facebook_app_id" translatable="false">[APP_ID]</string> <!-- Facebook -->
+    <string name="applovin_sdk_key" translatable="false">XJN4GGfoouR0ry-ZzbBJdb-Vez7ImciQJtenhxKkZ06qryKJvDaM_GGGMbyTF-7z9-MhihRO-cHCeZc2lJVdc_</string>
+</resources>

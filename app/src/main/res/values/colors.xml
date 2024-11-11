@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#E50914</color>
+    <color name="app_theme">#1976D2</color>
+    <color name="app_color">#111721</color>
+    <color name="btn_color_1">#4AB9FF</color>
+    <color name="btn_color_2">#0084F3</color>
+    <color name="back_bottom_color">#303D4F</color>
+    <color name="cardbg">#313C50</color>
+    <color name="btn_back">#0A2D4C</color>
+    <color name="gray_back">#696A6B</color>
+    <color name="Non_Selected">#9C9C9E</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="selected_color">#060E1B</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_non_select">#75757F</color>
+</resources>

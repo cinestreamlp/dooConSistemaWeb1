@@ -1,0 +1,20 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Dull Times For Charles - Free Time Projects\Peronal Collections\Watchify\nativetemplates\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from G:\Dull Times For Charles - Free Time Projects\Peronal Collections\Watchify\nativetemplates\src\main\AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from G:\Dull Times For Charles - Free Time Projects\Peronal Collections\Watchify\nativetemplates\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Dull Times For Charles - Free Time Projects\Peronal Collections\Watchify\nativetemplates\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from G:\Dull Times For Charles - Free Time Projects\Peronal Collections\Watchify\nativetemplates\src\main\AndroidManifest.xml:2:3-4:17
+	android:supportsRtl
+		ADDED from G:\Dull Times For Charles - Free Time Projects\Peronal Collections\Watchify\nativetemplates\src\main\AndroidManifest.xml:2:16-42
+uses-sdk
+INJECTED from G:\Dull Times For Charles - Free Time Projects\Peronal Collections\Watchify\nativetemplates\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Dull Times For Charles - Free Time Projects\Peronal Collections\Watchify\nativetemplates\src\main\AndroidManifest.xml
+INJECTED from G:\Dull Times For Charles - Free Time Projects\Peronal Collections\Watchify\nativetemplates\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\Dull Times For Charles - Free Time Projects\Peronal Collections\Watchify\nativetemplates\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Dull Times For Charles - Free Time Projects\Peronal Collections\Watchify\nativetemplates\src\main\AndroidManifest.xml

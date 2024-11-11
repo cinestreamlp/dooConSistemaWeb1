@@ -1,0 +1,5 @@
+rootProject.name = "Watchify"
+include ':app'
+include ':doubletapplayerview'
+include ':nativetemplates'
+
